@@ -1,5 +1,5 @@
 # PixelPulse
-# PixelPulse
+
 
 Automatically changes your desktop wallpaper based on the time of day, weather, or battery level.
 
